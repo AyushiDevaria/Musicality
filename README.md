@@ -1,4 +1,4 @@
-# [Talkative]()
+# [Musicality]()
 
 A react-redux based platform powered by shazam API with React Context to sum up a music application that allows user to listen to their favourite artists and get recommended songs
 
